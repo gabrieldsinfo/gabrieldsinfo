@@ -35,3 +35,4 @@ No dia a dia, atuo com práticas DevOps utilizando: Azure, AWS, Github, Gitlab, 
 ## 🌐 Contato
 
 - [LinkedIn](https://www.linkedin.com/in/gabrieldsinfo)
+- [vivaolinux](https://www.vivaolinux.com.br/~gabrieldsinfo)
